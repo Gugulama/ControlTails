@@ -80,7 +80,7 @@ public class MainActivity extends AppCompatActivity
         ed.putString(n8, note8.getText().toString());
         ed.putString(n9, note9.getText().toString());
         ed.commit();
-        Toast.makeText(this, "Saved", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Ебануца", Toast.LENGTH_SHORT).show();
     }
 
     void loadData()
